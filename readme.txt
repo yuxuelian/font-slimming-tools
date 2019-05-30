@@ -1,0 +1,1 @@
+java -jar sfnttool.jar  -s '01234567890- ' input.ttf output.ttf
